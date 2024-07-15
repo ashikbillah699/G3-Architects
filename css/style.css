@@ -187,6 +187,7 @@ button a {
 .sponspor{
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 130px;
 }
 
 .spons_iteams{
@@ -203,6 +204,20 @@ button a {
     filter: grayscale(100%);
 }
 
+
+/* footer part style */
+footer{
+    text-align: center;
+    background-color: #FFF4E7;
+    padding: 40px;
+    margin-top: 100px;
+}
+
+footer p{
+    font-size: 1rem;
+    font-weight: 700;
+    color: #727272;
+}
 
 
 
